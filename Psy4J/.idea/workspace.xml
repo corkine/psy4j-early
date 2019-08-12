@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="app" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataForm.java" description="/*DataProcess collect = new DataProcess(&#10;         ..." line="68" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataProcess.java" description="/*public DataProcess(String PathString, String Dat..." line="40" />
+    <bookmark url="file://$PROJECT_DIR$/../../../Java_EE_Program/LearnJPA/src/main/java/HelloJPA.scala" description="//分页技术，包括从第几页开始，一共多少" line="616" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataCollect.scala" description="new DataProcess(tup._1 ,tup._2, tup._3, tup._4).do..." line="39" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala" description="//如果是预实验，那么设置其为预实验" line="386" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala" description="//预实验" line="394" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Main.java" line="40" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="846628e8-91ea-4dd9-b20a-a4c8858797cc" name="Default Changelist" comment="add readme.md">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/corkine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_12_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_12_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalactic_scalactic_2_12_3_1_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_2_12_3_1_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/LabUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/voice/Capture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/voice/CaptureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Config.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/RealMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/SET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/WshUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataCollect.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/ExperimentData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/experiment/WshExperiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/experiment/WshLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/experiment/WshRealExperiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/BlankScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/FixScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/InfoScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/ReadyScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/ShowScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/TipScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/learn/TotalStartScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/BlankScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/EndScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/FixScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/ReadyScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/RelaxScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/ShowScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/StandShowScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/real/TestReadyScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/ReadyScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/ScoreScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/TestScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/TestScreen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/CircleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/StiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/LearnTrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/RealTrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/TestTrial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataBatch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataConvert.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/LogDataCollect.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_learn_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_learn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_task_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_task_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_test_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/A_test_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_learn_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_learn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_task_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_task_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_test_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/B_test_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_learn_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_learn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_task_ordinal_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_task_ordinal_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_task_size_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_task_size_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_test_ordinal_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_test_ordinal_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_test_size_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C_test_size_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_learn_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_learn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_task_ordinal_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_task_ordinal_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_task_size_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_task_size_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_test_ordinal_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_test_ordinal_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_test_size_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/D_test_size_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pre_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pre_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pre_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wsh_test_batch_log/10_zk.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/1-1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/1-2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/1-3.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/1-4.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/DataCollectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/LogDataCollectTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/MouseTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/29_clx.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/30_bfr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/31_hsn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/32_lixinru.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/33_mwl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/34_YSY.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/35_PXQ.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/36_hjq.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/37_yy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/38_ljy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/39_hrc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/40_txr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/41_xyq.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/42_wjm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/43_wsd.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/44_zl.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_wsh_files/45_wp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Experiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Experiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Form.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Form.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Trial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/lab/Trial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/SET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/SET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswExperiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswExperiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/BlankScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/BlankScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/InfoScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/InfoScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/ReadyScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/ReadyScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/RelaxScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/RelaxScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StartScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StartScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiBackScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiBackScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiHeadScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiHeadScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiBackScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiBackScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiHeadScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiHeadScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/StiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/StiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/Stimulate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/Stimulate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/BasicTrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/BasicTrial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/InfoTrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/InfoTrial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/ReadyTrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/ReadyTrial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/RelaxTrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/RelaxTrial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/TestBasicTrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/TestBasicTrial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lab$DataCollectTest.ic" NAME="DataCollectTest Coverage Results" MODIFIED="1559732144703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mazhangjing.zsw.data.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab$LogDataCollectTest_checkIfLogFile_should_work_well.ic" NAME="LogDataCollectTest.checkIfLogFile should work well Coverage Results" MODIFIED="1559731929164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="302" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8854">
+              <caret line="472" column="108" selection-start-line="472" selection-start-column="108" selection-end-line="472" selection-end-column="108" />
+              <folding>
+                <element signature="e#34#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataCollect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="390" column="86" selection-start-line="390" selection-start-column="86" selection-end-line="390" selection-end-column="86" />
+              <folding>
+                <element signature="docComment;class#DataCollect#0" />
+                <element signature="initializer##0;class#DataCollect#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/DataCollectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#DataForm#0" />
+                <element signature="initializer##0;class#DataForm#0" />
+                <element signature="initializer##1;class#DataForm#0" />
+                <element signature="method#initScene#0;class#DataForm#0" />
+                <element signature="method#start#0;class#DataForm#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/LogDataCollect.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1691">
+              <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+              <folding>
+                <element signature="e#34#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Scala Object" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NUMBER</find>
+      <find>D0</find>
+      <find>_</find>
+      <find>SET.IS_PRE_EXP.getValue()</find>
+      <find>SET.EXP_NUMBER.getValue()</find>
+      <find>In Corr</find>
+      <find>ACC: ${s.lines.count(_.correct)/s.lines.length}</find>
+      <find>println</find>
+      <find>Saving</find>
+      <find>In</find>
+      <find>24</find>
+      <find>40</find>
+      <find>28</find>
+      <find>exper</find>
+      <find>isNormal</find>
+      <find>isNor</find>
+      <find>两个</find>
+      <find>Get</find>
+      <find>:</find>
+      <find>10</find>
+      <find>a.</find>
+      <find>28253</find>
+      <find>private</find>
+      <find>Assert.</find>
+      <find>logger.de</find>
+      <find>Mouse Moved</find>
+      <find>Mouse Moved:</find>
+      <find>System</find>
+      <find>393</find>
+      <find>System.out.println</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>数量</replace>
+      <replace>不一致</replace>
+      <replace>NUMBER_FIRST_BIG =</replace>
+      <replace>System.out.println</replace>
+      <replace>stand_answer_for_pre</replace>
+      <replace>filterInSD(2)</replace>
+      <replace>两个标准差</replace>
+      <replace>c0</replace>
+      <replace>_2</replace>
+      <replace>_3</replace>
+      <replace>_4</replace>
+      <replace>headerWithOutDistance</replace>
+      <replace>getLineWithOutDistance</replace>
+      <replace>ms</replace>
+      <replace>Size</replace>
+      <replace>SIZE</replace>
+      <replace>FB1</replace>
+      <replace>D1</replace>
+      <replace>-</replace>
+      <replace>Config.isPreE</replace>
+      <replace>Config.getExperimentNumber()</replace>
+      <replace>Config.experimentNumber()</replace>
+      <replace>ACC: ${s.lines.count(_.correct) * 1.0/s.lines.length}</replace>
+      <replace>sb.append</replace>
+      <replace>Std:</replace>
+      <replace>14</replace>
+      <replace>28</replace>
+      <replace>40</replace>
+      <replace>Right</replace>
+      <replace>order.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/CircleMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/stimulate/StiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/LearnTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/TestTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/WshUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/WshUtils.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/trial/RealTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Config.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/SET.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/voice/TestVoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataBatch.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataConvert.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/MouseTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/MouseTest.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/MouseTestTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswExperiment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiBackScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/test/TestStiHeadScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/BlankScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/InfoScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/ReadyScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/RelaxScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StartScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiHeadScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiBackScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/Array.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/StiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/sti/Stimulate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/BasicTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/InfoTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/RelaxTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/ReadyTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/TestBasicTrial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/SET.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/Bean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/TestScreen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/experiment/WshLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/RealMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/readme" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala" />
+        <option value="$PROJECT_DIR$/src/main/resources/zsw_data_example/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/DataCollectTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/LogDataCollectTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/LogDataCollect.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataCollect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$APPLICATION_HOME_DIR$/bin/repos" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="psy4j" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="psy4j" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="psy4j" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1016" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mazhangjing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mazhangjing" type="462c0819:PsiDirectoryNode" />
+              <item name="zsw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mazhangjing" type="462c0819:PsiDirectoryNode" />
+              <item name="zsw" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="zsw_data_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="String&#9;PSI&#9;JAVA://java.lang.String" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="org.scalatest.FunSuite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mazhangjing.zsw.data" />
+      <recent name="com.mazhangjing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/wsh_test_batch_log" />
+      <recent name="C:\Users\Corkine\Documents\工作文件夹\cmPsyLab\Lab\Lab\src\main\resources\META-INF" />
+      <recent name="C:\Users\Corkine\Documents\工作文件夹\cmPsyLab\Lab\Lab\src" />
+      <recent name="$PROJECT_DIR$/src/main/resources/wsh_data" />
+      <recent name="$PROJECT_DIR$/src/main/resources/data_example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/test_wsh_files" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Corkine\Documents\工作文件夹\cmPsyLab\Lab\Lab" />
+      <recent name="C:\Users\Corkine\Documents\工作文件夹\cmPsyLab\Lab\Lab\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DataCollectTest.doAction2">
+    <configuration name="DataForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.wsh.data.DataForm" />
+      <module name="Wsh_Zsw_Exp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.wsh.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataCollectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wsh_Zsw_Exp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.zsw.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mazhangjing.zsw.data" />
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.zsw.data.DataCollectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataCollectTest.doAction2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Wsh_Zsw_Exp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mazhangjing.zsw.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mazhangjing.zsw.data" />
+      <option name="MAIN_CLASS_NAME" value="com.mazhangjing.zsw.data.DataCollectTest" />
+      <option name="METHOD_NAME" value="doAction2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Wsh_Zsw_Exp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LogDataCollectTest.Batch Process should work well" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="Wsh_Zsw_Exp" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="testName" value="Batch Process should work well" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogDataCollectTest.checkIfLogFile should work well" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="Wsh_Zsw_Exp" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="testName" value="checkIfLogFile should work well" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogDataCollectTest.process should work well" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="Wsh_Zsw_Exp" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Test name" />
+      <setting name="path" value="com.mazhangjing.zsw.data.LogDataCollectTest" />
+      <setting name="testName" value="process should work well" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DataForm" />
+      <item itemvalue="JUnit.DataCollectTest" />
+      <item itemvalue="JUnit.DataCollectTest.doAction2" />
+      <item itemvalue="ScalaTest.LogDataCollectTest.Batch Process should work well" />
+      <item itemvalue="ScalaTest.LogDataCollectTest.process should work well" />
+      <item itemvalue="ScalaTest.LogDataCollectTest.checkIfLogFile should work well" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataCollectTest.doAction2" />
+        <item itemvalue="JUnit.DataCollectTest" />
+        <item itemvalue="ScalaTest.LogDataCollectTest.checkIfLogFile should work well" />
+        <item itemvalue="ScalaTest.LogDataCollectTest.process should work well" />
+        <item itemvalue="ScalaTest.LogDataCollectTest.Batch Process should work well" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="846628e8-91ea-4dd9-b20a-a4c8858797cc" name="Default Changelist" comment="" />
+      <created>1536302801258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536302801258</updated>
+      <workItem from="1536302802715" duration="19217000" />
+      <workItem from="1543650765080" duration="21915000" />
+      <workItem from="1543674071413" duration="128000" />
+      <workItem from="1543721422732" duration="4727000" />
+      <workItem from="1544002299760" duration="2540000" />
+      <workItem from="1544759616856" duration="913000" />
+      <workItem from="1544768011112" duration="253000" />
+      <workItem from="1544771293780" duration="2482000" />
+      <workItem from="1544775549211" duration="2515000" />
+      <workItem from="1545626445174" duration="12314000" />
+      <workItem from="1545638809339" duration="35000" />
+      <workItem from="1545639550169" duration="2573000" />
+      <workItem from="1545643289440" duration="6000" />
+      <workItem from="1545831361891" duration="190000" />
+      <workItem from="1545897321513" duration="44000" />
+      <workItem from="1546162241743" duration="618000" />
+      <workItem from="1547023096396" duration="12070000" />
+      <workItem from="1547096804939" duration="11754000" />
+      <workItem from="1547191896881" duration="16499000" />
+      <workItem from="1547218150554" duration="1667000" />
+      <workItem from="1547361110439" duration="17665000" />
+      <workItem from="1547433574109" duration="380000" />
+      <workItem from="1547434256237" duration="114000" />
+      <workItem from="1547443473441" duration="13249000" />
+      <workItem from="1547463455929" duration="1603000" />
+      <workItem from="1547465137480" duration="1439000" />
+      <workItem from="1547467264605" duration="570000" />
+      <workItem from="1547467871301" duration="1675000" />
+      <workItem from="1547472420213" duration="154000" />
+      <workItem from="1547536347538" duration="10548000" />
+      <workItem from="1547631169844" duration="555000" />
+      <workItem from="1547812912493" duration="3501000" />
+      <workItem from="1547877693915" duration="2137000" />
+      <workItem from="1547880980254" duration="65000" />
+      <workItem from="1547881193410" duration="657000" />
+      <workItem from="1547885316590" duration="490000" />
+      <workItem from="1547889665324" duration="637000" />
+      <workItem from="1547897112839" duration="7048000" />
+      <workItem from="1547906147587" duration="26000" />
+      <workItem from="1547911020355" duration="618000" />
+      <workItem from="1547961664530" duration="7715000" />
+      <workItem from="1547978971445" duration="253000" />
+      <workItem from="1548050989097" duration="2130000" />
+      <workItem from="1550376662140" duration="764000" />
+      <workItem from="1550379038074" duration="10921000" />
+      <workItem from="1550397247143" duration="1000" />
+      <workItem from="1550460105799" duration="7518000" />
+      <workItem from="1550495898330" duration="678000" />
+      <workItem from="1550579786154" duration="1161000" />
+      <workItem from="1550654844644" duration="4111000" />
+      <workItem from="1550666324967" duration="660000" />
+      <workItem from="1550668028232" duration="2372000" />
+      <workItem from="1550830943810" duration="4670000" />
+      <workItem from="1550837422259" duration="6000" />
+      <workItem from="1550846246644" duration="2664000" />
+      <workItem from="1550850159547" duration="701000" />
+      <workItem from="1550892626248" duration="690000" />
+      <workItem from="1550908290082" duration="2882000" />
+      <workItem from="1550913866085" duration="9091000" />
+      <workItem from="1550930275772" duration="2724000" />
+      <workItem from="1550933999087" duration="1176000" />
+      <workItem from="1550997325916" duration="7024000" />
+      <workItem from="1551008052480" duration="2165000" />
+      <workItem from="1551011411560" duration="1281000" />
+      <workItem from="1551014195153" duration="863000" />
+      <workItem from="1551088271585" duration="87000" />
+      <workItem from="1551101096052" duration="1036000" />
+      <workItem from="1551161825597" duration="280000" />
+      <workItem from="1551428406694" duration="8934000" />
+      <workItem from="1551597439361" duration="1450000" />
+      <workItem from="1551621370942" duration="34000" />
+      <workItem from="1551699615787" duration="1326000" />
+      <workItem from="1551787508929" duration="7279000" />
+      <workItem from="1551799893764" duration="188000" />
+      <workItem from="1551800114295" duration="6984000" />
+      <workItem from="1551842270339" duration="4891000" />
+      <workItem from="1551851084743" duration="3514000" />
+      <workItem from="1551855526394" duration="76000" />
+      <workItem from="1551855606982" duration="9034000" />
+      <workItem from="1551867950302" duration="130000" />
+      <workItem from="1551872006635" duration="163000" />
+      <workItem from="1551944161051" duration="578000" />
+      <workItem from="1552017430436" duration="8554000" />
+      <workItem from="1552097972346" duration="9030000" />
+      <workItem from="1552111171694" duration="9986000" />
+      <workItem from="1552122666087" duration="670000" />
+      <workItem from="1552123972149" duration="1063000" />
+      <workItem from="1552131534609" duration="2635000" />
+      <workItem from="1552227388113" duration="29000" />
+      <workItem from="1552268546858" duration="658000" />
+      <workItem from="1552302821400" duration="4152000" />
+      <workItem from="1552366635993" duration="552000" />
+      <workItem from="1552378756733" duration="1883000" />
+      <workItem from="1552383630559" duration="5420000" />
+      <workItem from="1552392064579" duration="1061000" />
+      <workItem from="1552393287808" duration="22000" />
+      <workItem from="1552448467909" duration="37000" />
+      <workItem from="1552570194799" duration="4041000" />
+      <workItem from="1552645608740" duration="8519000" />
+      <workItem from="1552705961865" duration="3313000" />
+      <workItem from="1552810848468" duration="1003000" />
+      <workItem from="1552964808564" duration="383000" />
+      <workItem from="1552969365712" duration="2002000" />
+      <workItem from="1553081684254" duration="7952000" />
+      <workItem from="1553090374934" duration="619000" />
+      <workItem from="1553324427893" duration="3818000" />
+      <workItem from="1553333348038" duration="4203000" />
+      <workItem from="1553349665341" duration="5014000" />
+      <workItem from="1553356280820" duration="531000" />
+      <workItem from="1553358981755" duration="2271000" />
+      <workItem from="1553361454805" duration="110000" />
+      <workItem from="1553361984509" duration="155000" />
+      <workItem from="1553400479775" duration="5444000" />
+      <workItem from="1553409655056" duration="985000" />
+      <workItem from="1553439783145" duration="90000" />
+      <workItem from="1553517835688" duration="4904000" />
+      <workItem from="1553522761321" duration="29000" />
+      <workItem from="1553522926164" duration="67000" />
+      <workItem from="1553523346046" duration="631000" />
+      <workItem from="1553592761301" duration="7759000" />
+      <workItem from="1553672213526" duration="6832000" />
+      <workItem from="1553690677168" duration="17000" />
+      <workItem from="1553690711982" duration="392000" />
+      <workItem from="1553695575559" duration="377000" />
+      <workItem from="1553754374222" duration="1017000" />
+      <workItem from="1553763174398" duration="775000" />
+      <workItem from="1553852773148" duration="2942000" />
+      <workItem from="1553939092477" duration="13003000" />
+      <workItem from="1554013205122" duration="498000" />
+      <workItem from="1554294697337" duration="2465000" />
+      <workItem from="1554361996009" duration="731000" />
+      <workItem from="1554431428751" duration="15000" />
+      <workItem from="1554453132528" duration="646000" />
+      <workItem from="1554454764768" duration="64000" />
+      <workItem from="1554625099913" duration="5096000" />
+      <workItem from="1554692703824" duration="8800000" />
+      <workItem from="1554732835265" duration="237000" />
+      <workItem from="1554802384563" duration="2236000" />
+      <workItem from="1554814814680" duration="2519000" />
+      <workItem from="1554866018627" duration="473000" />
+      <workItem from="1554866527280" duration="906000" />
+      <workItem from="1554964831653" duration="1350000" />
+      <workItem from="1555038482491" duration="10000" />
+      <workItem from="1555044019685" duration="955000" />
+      <workItem from="1555060500035" duration="501000" />
+      <workItem from="1555063673015" duration="910000" />
+      <workItem from="1555125750836" duration="9599000" />
+      <workItem from="1555372690452" duration="4246000" />
+      <workItem from="1555381147198" duration="34000" />
+      <workItem from="1555399045168" duration="2913000" />
+      <workItem from="1555655405109" duration="1907000" />
+      <workItem from="1555843773901" duration="5493000" />
+      <workItem from="1555853052239" duration="127000" />
+      <workItem from="1557918754025" duration="3368000" />
+      <workItem from="1559390215351" duration="18000" />
+      <workItem from="1559704051830" duration="792000" />
+      <workItem from="1559708438710" duration="13136000" />
+      <workItem from="1559912574887" duration="261000" />
+    </task>
+    <task id="LOCAL-00001" summary="add readme.md">
+      <created>1545640721194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545640721194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LogDataCollectTest_Batch_Process_should_work_well - 2019.06.05 at 18h 44m 37s.xml">
+      <configuration name="LogDataCollectTest.Batch Process should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_process_should_work_well - 2019.06.05 at 18h 46m 24s.xml">
+      <configuration name="LogDataCollectTest.process should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_process_should_work_well - 2019.06.05 at 18h 47m 24s.xml">
+      <configuration name="LogDataCollectTest.process should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_checkIfLogFile_should_work_well - 2019.06.05 at 18h 48m 56s.xml">
+      <configuration name="LogDataCollectTest.checkIfLogFile should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_checkIfLogFile_should_work_well - 2019.06.05 at 18h 49m 01s.xml">
+      <configuration name="LogDataCollectTest.checkIfLogFile should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_checkIfLogFile_should_work_well - 2019.06.05 at 18h 51m 30s.xml">
+      <configuration name="LogDataCollectTest.checkIfLogFile should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="LogDataCollectTest_checkIfLogFile_should_work_well - 2019.06.05 at 18h 52m 12s.xml">
+      <configuration name="LogDataCollectTest.checkIfLogFile should work well" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="DataCollectTest - 2019.06.05 at 19h 01m 17s.xml">
+      <configuration name="DataCollectTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCollectTest_doAction2 - 2019.06.05 at 19h 02m 24s.xml">
+      <configuration name="DataCollectTest.doAction2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCollectTest_doAction2 - 2019.06.07 at 21h 06m 08s.xml">
+      <configuration name="DataCollectTest.doAction2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="518299000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1016" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" x="444" y="437" width="451" height="444" id="Project" order="0" sideWeight="0.5606208" visible="true" weight="0.21927084" />
+      <window_info id="Structure" order="1" sideWeight="0.34673366" side_tool="true" weight="0.128125" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.43937925" side_tool="true" weight="0.15520833" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.328807" />
+      <window_info anchor="bottom" x="-1361" y="643" width="1315" height="893" id="Run" order="2" sideWeight="0.49840257" weight="0.57248676" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49946752" weight="0.12169312" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.64444447" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49946752" weight="0.3268817" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50159746" side_tool="true" weight="0.23144105" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49946752" weight="0.1655914" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.34322035" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.73862433" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32936507" />
+      <window_info anchor="bottom" id="Flutter Performance" order="15" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="6" side_tool="true" weight="0.26061493" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32916668" />
+      <window_info anchor="right" id="Flutter Inspector" order="9" />
+      <window_info anchor="right" id="Flutter Outline" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3296875" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5606208" visible="true" weight="0.19235437" />
+      <window_info id="Structure" order="1" sideWeight="0.34673366" side_tool="true" weight="0.128125" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.43937925" side_tool="true" weight="0.15520833" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.328807" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49946752" weight="0.30785564" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49946752" weight="0.32751092" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50159746" side_tool="true" weight="0.23144105" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32298738" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.29194957" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49946752" weight="0.16579771" />
+      <window_info active="true" anchor="bottom" x="-1779" y="973" width="762" height="850" id="Run" order="11" sideWeight="0.49840257" type="FLOATING" visible="true" weight="0.33753636" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.7399151" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32936507" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3296875" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="6" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32916668" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme.md" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>data</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentTime - similarTime</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/BlankScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/InfoScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="41" column="125" selection-start-line="41" selection-start-column="125" selection-end-line="41" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/ReadyScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/RelaxScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StartScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiBackScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/screen/StiHeadScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/StiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/stimulate/Stimulate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+            <element signature="e#1463#1464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/InfoTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/RelaxTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/ReadyTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/BasicTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/trial/TestBasicTrial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/SET.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/Config.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/Bean.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/ExperimentLauncher.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mazhangjing/ConfigTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/screen/test/TestScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="139" column="51" selection-start-line="139" selection-start-column="51" selection-end-line="139" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch.yaml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/experiment/ZswLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="150" column="87" selection-start-line="150" selection-start-column="87" selection-end-line="150" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/RealMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="179" column="109" selection-start-line="179" selection-start-column="31" selection-end-line="179" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="162" column="109" selection-start-line="162" selection-start-column="109" selection-end-line="162" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/ExperimentData.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test_wsh_files/33_mwl.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1358" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/experiment/WshLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="48" column="46" lean-forward="true" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar!/scala/collection/IndexedSeqOptimized.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.6/scala-library-2.12.6.jar!/scala/collection/mutable/ArrayOps.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="237" column="31" lean-forward="true" selection-start-line="237" selection-start-column="31" selection-end-line="237" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_info_again.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test_wsh_files/44_zl.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataUtils.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="139" column="23" lean-forward="true" selection-start-line="139" selection-start-column="23" selection-end-line="139" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/zsw_data_example/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/zsw_data_example/1-1.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-1_毕东娇_.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4426">
+          <caret line="195" column="143" lean-forward="true" selection-start-line="195" selection-start-column="143" selection-end-line="195" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataBatch.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="240" column="1" lean-forward="true" selection-start-line="240" selection-start-column="1" selection-end-line="240" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/zsw_data_example/1-1_毕东娇_女.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/LogDataCollectTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="e#34#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-1_毕东娇_cut_1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-1_毕东娇_full_area_with_coordinate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37955">
+          <caret column="205" lean-forward="true" selection-start-column="205" selection-end-column="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/wsh/data/DataBatch.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8854">
+          <caret line="472" column="108" selection-start-line="472" selection-start-column="108" selection-end-line="472" selection-end-column="108" />
+          <folding>
+            <element signature="e#34#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#DataForm#0" />
+            <element signature="initializer##0;class#DataForm#0" />
+            <element signature="initializer##1;class#DataForm#0" />
+            <element signature="method#initScene#0;class#DataForm#0" />
+            <element signature="method#start#0;class#DataForm#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/LogDataCollect.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
+          <folding>
+            <element signature="e#34#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mazhangjing/zsw/data/DataCollectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazhangjing/zsw/data/DataCollect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="390" column="86" selection-start-line="390" selection-start-column="86" selection-end-line="390" selection-end-column="86" />
+          <folding>
+            <element signature="docComment;class#DataCollect#0" />
+            <element signature="initializer##0;class#DataCollect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Wsh_Zsw_Exp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.scala-lang:scala-library:2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

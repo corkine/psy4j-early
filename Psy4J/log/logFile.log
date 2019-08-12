@@ -1,0 +1,57 @@
+21:05:16.549 [main] INFO  com.mazhangjing.zsw.data.DataCollect - [MAIN] Parse Data now...
+21:05:17.100 [main] INFO  com.mazhangjing.zsw.data.DataCollect - [MAIN] Marge Log with Data now...
+21:05:17.103 [main] INFO  com.mazhangjing.zsw.data.DataCollect - Align Data With Log Time now... (This will take a bit long time...)
+21:05:55.463 [main] INFO  com.mazhangjing.zsw.data.DataCollect - [MAIN] Compute Area now...
+21:05:55.465 [main] INFO  com.mazhangjing.zsw.data.DataCollect - Find Data, Compute Area Between Move And Click now...
+21:05:55.529 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：99
+21:05:55.603 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：123
+21:05:55.649 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:05:55.715 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:05:56.019 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：113
+21:05:56.071 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：104
+21:05:56.341 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:05:56.426 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：103
+21:05:56.610 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：127
+21:05:56.629 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：102
+21:05:56.668 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:05:56.688 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：107
+21:05:56.709 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：129
+21:05:56.729 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:05:56.768 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:05:56.835 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：105
+21:05:57.257 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：128
+21:05:57.306 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:05:57.397 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:05:57.544 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：130
+21:05:57.620 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：99
+21:05:57.671 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：123
+21:05:58.034 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：159
+21:05:58.059 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：102
+21:05:58.410 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:05:58.629 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：99
+21:05:59.254 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：109
+21:05:59.340 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：108
+21:05:59.493 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：193
+21:06:00.111 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：136
+21:06:00.142 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：112
+21:06:00.635 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：102
+21:06:00.732 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：117
+21:06:00.799 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:06:00.833 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：108
+21:06:01.358 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：118
+21:06:01.391 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：103
+21:06:01.678 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：156
+21:06:02.075 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：100
+21:06:02.337 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：104
+21:06:02.824 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:06:03.365 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：112
+21:06:03.727 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:06:05.015 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：101
+21:06:05.058 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：99
+21:06:05.408 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：109
+21:06:05.493 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：100
+21:06:05.628 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：99
+21:06:05.717 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：106
+21:06:07.311 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：107
+21:06:07.359 [main] WARN  com.mazhangjing.zsw.data.DataCollect - 传入的数量不足，不能够等比分成 100 分，因此，按照原样输出，结果约等于 100, 传入数量为：105
+21:06:07.697 [main] INFO  com.mazhangjing.zsw.data.DataCollect - [MAIN] Save File now...
